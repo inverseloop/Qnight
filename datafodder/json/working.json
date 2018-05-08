@@ -74,7 +74,8 @@
     },
     "verboten": {
       "weighted importance": 11,
-      "samples": []
+      "samples": [
+      ]
     }
   }
 }

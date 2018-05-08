@@ -1,0 +1,73 @@
+{
+  "dairy and eggs": [
+    "blue",
+    "cave aged",
+    "chicken egg",
+    "cow",
+    "duck egg",
+    "goat",
+    "ripe",
+    "sheep",
+    "young"
+  ],
+
+
+  "green vegetables": [
+    "asparagus",
+    "broccoli",
+    "broccollini",
+    "rapini",
+    "raw leafy greens",
+    "robust leafy greens",
+    "spinach",
+    "tender leafy greens"
+  ],
+
+
+  "meats": [
+    "beef",
+    "chicken",
+    "cured meats",
+    "duck",
+    "exotic",
+    "game birds",
+    "goat",
+    "ham",
+    "lamb",
+    "large game animals",
+    "pork",
+    "rabbit",
+    "sausages",
+    "small game animals",
+    "turkey",
+    "veal",
+    "venison"
+  ],
+
+
+  "seafood": [
+    "exotic",
+    "fish",
+    "roe",
+    "shellfish - crustaceans",
+    "shellfish - molluscs"
+  ],
+
+
+  "starch": [
+    "bread",
+    "corn",
+    "other root vegetables like parsnip",
+    "pasta",
+    "potato",
+    "rice",
+    "rice noodle",
+    "sweet potato"
+  ],
+
+
+  "verboten": [
+    "gluten",
+    "duck"
+  ]
+}
